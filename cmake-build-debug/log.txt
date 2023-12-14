@@ -1,8 +1,0 @@
-[2023-12-05 06:12:48] login username: danil password: 123456789
-[2023-12-05 06:13:23] login username: danil password: 123456789
-[2023-12-05 06:17:34] login username: jane password: 123456789
-[2023-12-05 06:20:12] login username: wewewe password: 123456789
-[2023-12-05 06:21:18] create username: rererer password: 123456789
-[2023-12-05 06:28:48] login username: daaaanil password: 1234
-[2023-12-05 06:50:02] create username: biba password: 12334578987 (valid)
-[2023-12-05 06:51:24] create username: danil password: 1111134535 (invalid)
