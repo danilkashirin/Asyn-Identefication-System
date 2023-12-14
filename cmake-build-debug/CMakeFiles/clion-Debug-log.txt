@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/danilkasirin/projects_C/AsyncTest -B /Users/danilkasirin/projects_C/AsyncTest/cmake-build-debug
+-- Using the multi-header code from /Users/danilkasirin/projects_C/AsyncTest/cmake-build-debug/_deps/json-src/include/
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/danilkasirin/projects_C/AsyncTest/cmake-build-debug

@@ -1,0 +1,5 @@
+/Users/danilkasirin/projects_C/AsyncTest/cmake-build-debug/CMakeFiles/AsyncTest.dir
+/Users/danilkasirin/projects_C/AsyncTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danilkasirin/projects_C/AsyncTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/danilkasirin/projects_C/AsyncTest/cmake-build-debug/_deps/json-build/CMakeFiles/edit_cache.dir
+/Users/danilkasirin/projects_C/AsyncTest/cmake-build-debug/_deps/json-build/CMakeFiles/rebuild_cache.dir
